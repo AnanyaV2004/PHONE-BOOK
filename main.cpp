@@ -248,7 +248,7 @@ int main(int argc, char* argv[]) {
             return 0;
         }
         else
-        cout << "Instruction no recognised"<<endl;
+        cout << "Instruction not recognised"<<endl;
     }
 
     return 0;
